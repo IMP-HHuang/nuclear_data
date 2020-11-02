@@ -1,2 +1,2 @@
 # Pb
-  ## [$^{187}Pb$](./data/Pb/187Pb.ipynb)
+  ## [<sip>187</sup>Pb](./data/Pb/187Pb.ipynb)
